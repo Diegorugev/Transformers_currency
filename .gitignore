@@ -1,0 +1,15 @@
+# Ignorar entornos virtuales
+.venv/
+
+# Ignorar dados crudos e procesados
+data/
+*.csv
+*.txt
+
+# Ignorar arquivos temporales
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Ignorar configurações locales
+*.env
